@@ -7,5 +7,3 @@ ENV = {
   :groups => ENV['GROUPS'],
   :uid    => ENV['UID']
 }
-
-
