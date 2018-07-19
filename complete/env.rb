@@ -6,4 +6,5 @@ ENV = {
   :user   => ENV['USER'],
   :groups => ENV['GROUPS'],
   :uid    => ENV['UID']
+  :pwd    => ENV['PWD']
 }
