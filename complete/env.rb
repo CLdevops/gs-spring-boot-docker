@@ -8,7 +8,6 @@ env = {
   :user      => ENV['USER'],
   :hostname  => ENV['HOSTNAME'],
   :uid       => ENV['UID'],
-  :home      => ENV['HOME']
 }
 
 puts 'Done'
