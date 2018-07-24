@@ -7,6 +7,7 @@ env = {
   :colorterm => ENV['COLORTERM'],
   :user      => ENV['USER'],
   :hostname  => ENV['HOSTNAME']
+  :uid       => ENV['UID']
 }
 
 puts 'Done'
