@@ -6,8 +6,9 @@ env = {
   :shell     => ENV['SHELL'],
   :colorterm => ENV['COLORTERM'],
   :user      => ENV['USER'],
-  :hostname  => ENV['HOSTNAME']
-  :uid       => ENV['UID']
+  :hostname  => ENV['HOSTNAME'],
+  :uid       => ENV['UID'],
+  :home      => ENV['HOME']
 }
 
 puts 'Done'
